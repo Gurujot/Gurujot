@@ -1,4 +1,4 @@
-<h2>I'm Gurujot.</h2>
+<h2>Hi! I'm Gurujot.</h2>
 
 <h3>💻 &nbsp;About Me </h3>
 
