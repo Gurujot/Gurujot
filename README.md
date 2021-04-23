@@ -4,7 +4,7 @@
 
 - Graduated from the University of Windsor in Computer Science and Economics.
 - Exploring new languages and technologies to improve my skills.
-- Most recently worked at Primal Security Inc as a web developer.
+- Most recently worked at Primal Security Inc as a software developer.
 - Currently learning more about Cloud Architecture and AI.
 - Some of my hobbies include Photography and Powerlifting.
 
