@@ -2,7 +2,7 @@
 
 <h3>💻 &nbsp;About Me </h3>
 
-- Graduated from the University of Windsor in Computer Science and Economics.
+- Graduated from the University of Windsor with degrees in Computer Science and Economics.
 - Exploring new languages and technologies to improve my skills.
 - Most recently worked at Primal Security Inc. as a software developer.
 - Currently learning more about Cloud Architecture and AI.
