@@ -3,8 +3,6 @@
 <h3>💻 &nbsp;About Me </h3>
 
 - Graduated from the University of Windsor with degrees in Computer Science and Economics.
-- Exploring new languages and technologies to improve my skills.
-- Most recently worked at Primal Security Inc. as a software developer Intern.
 - Currently learning MERN Stack through AppAcademy Open.
 - Some of my hobbies include Photography and Powerlifting.
 
